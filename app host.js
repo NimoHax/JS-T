@@ -10,4 +10,5 @@ setInterval(() => {
   http.get(`http://<#You Projects Name>.glitch.me/`);
 }, 280000);
 
-#glitch.com App satup By Uptime Robot.com 
+#glitch.com App satup By Uptime Robot.com ! 
+#Use this Command with 1st Row !
