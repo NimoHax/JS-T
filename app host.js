@@ -7,5 +7,5 @@ app.get("/", (request, response) => {
 });
 app.listen(3000);
 setInterval(() => {
-  http.get(`http://music-x.glitch.me/`);
+  http.get(`http://<#You Projects Name>.glitch.me/`);
 }, 280000);
